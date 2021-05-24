@@ -1,7 +1,7 @@
 # US Airlines Tweets Sentiment Analysis
 Classifying a tweet as positive, neutral, or negative sentiment using Natural Language Processing (CBOW approaches) and Traditional Machine Learning Algorithms.
 
-# The evaluation metric for this use case is Macro F-Score.
+The evaluation metric for this use case is <b>Macro F-Score</b>.
 
 # Highlights - 
 - Reg-Ex functions have been used to pre-process the tweets.
